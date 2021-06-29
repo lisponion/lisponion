@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lisponion from linnil
-- 👽 Actually this is my new account
+- 👽 This is my another new account
 - 🦠 I’m interested in common-lisp
 - 🌱 I’m currently learning python
 
